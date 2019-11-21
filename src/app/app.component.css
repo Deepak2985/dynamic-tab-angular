@@ -1,0 +1,11 @@
+.container-fluid {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.mt-2 {
+  margin-top: 2rem;
+}
